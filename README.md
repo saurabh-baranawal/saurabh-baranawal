@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 <p align="center">
 <a href="https://linkedin.com/in/in/saurabh-baranawal-84a239239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/saurabh-baranawal-84a239239" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/baranwalsaurabh98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/baranwalsaurabh98" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/saurabharb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/saurabharb/" height="30" width="40" /></a>
+<a href="(https://www.instagram.com/saurabharb/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/saurabharb/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/saurabh2jpz0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/saurabh2jpz0" height="30" width="40" /></a>
 </p>
   </div>
