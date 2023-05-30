@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 <img  src="https://github.com/saurabh-baranawal/saurabh-baranawal/blob/main/image.gif" alt="coding" width="400" >
   </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabh-baranawal&label=Profile%20views&color=0e75b6&style=flat" alt="saurabh-baranawal" /> </p>
-
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabh-baranawal&label=Profile%20views&color=0e75b6&style=flat" alt="saurabh-baranawal" /> </p>
+ -->
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurabh-baranawal" alt="saurabh-baranawal" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
