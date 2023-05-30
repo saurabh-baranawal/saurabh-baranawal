@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate frontend developer from India</h3>
 <div align="center" >
 <img  src="https://github.com/saurabh-baranawal/saurabh-baranawal/blob/main/image.gif" alt="coding" width="400" >
-  </div>
+  </div> 
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabh-baranawal&label=Profile%20views&color=0e75b6&style=flat" alt="saurabh-baranawal" /> </p>
  -->
